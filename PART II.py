@@ -53,5 +53,3 @@ def main():
         print("-", r)
 
 main()
-
-print("Hello!")
